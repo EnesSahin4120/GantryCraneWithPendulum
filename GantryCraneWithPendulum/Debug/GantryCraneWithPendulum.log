@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\msi-nb\documents\visual studio 2015\projects\gantrycranewithpendulum\gantrycranewithpendulum\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\msi-nb\documents\visual studio 2015\projects\gantrycranewithpendulum\gantrycranewithpendulum\main.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi-nb\documents\visual studio 2015\projects\gantrycranewithpendulum\gantrycranewithpendulum\main.cpp(312): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  GantryCraneWithPendulum.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\GantryCraneWithPendulum\Debug\GantryCraneWithPendulum.exe
+  GantryCraneWithPendulum.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\GantryCraneWithPendulum\Debug\GantryCraneWithPendulum.pdb (Full PDB)
