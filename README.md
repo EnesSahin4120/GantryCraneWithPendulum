@@ -1,7 +1,7 @@
 # GantryCraneWithPendulum
-Gantry Crane Dynamics with OpenGL(C++)
+Gantry Crane Dynamic Model with OpenGL(C++)
 
-Gantry Crane Simulation and Nondimensionalization Notes, Drawing Cylinder Mesh, Drawing Sphere Mesh, Skybox, Lights, Shadow Maps
+Pendulum Simulation, Nondimensionalization Notes, Drawing Cylinder Mesh, Drawing Sphere Mesh, Skybox, Lights, Shadow Maps
 
 ![1](https://github.com/EnesSahin4120/GantryCraneWithPendulum/assets/65425355/87ef852e-997b-4b7d-aa43-ba1e2409af3a)
 ![2](https://github.com/EnesSahin4120/GantryCraneWithPendulum/assets/65425355/2cc92f43-5193-49b9-816f-1b1b05eb2254)
